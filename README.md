@@ -76,4 +76,4 @@ It is designed to help the **business team** quickly identify trends, profitabil
 ---
 
 ## 🔗 Dash_board 
-Complete project available here: [GitHub Repo]()
+Complete project available here: [GitHub Repo](https://github.com/Tanmoydey721457/Dash-board-of-amazon-sales-data-/blob/main/DASHBOARD_DATA.png)
